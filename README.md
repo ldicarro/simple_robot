@@ -10,4 +10,4 @@ Once the sketch starts running, messages are sent to the Serial Monitor to let t
 
 When the motors are tested in the `setup()` function, lift the chassis tires off the ground so it does not run in weird curves. For the `loop()` function, the chassis can be on a surface.
 
-![Robot Chassis](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/a/4/8/600_456287688.jpeg)
+![Robot Chassis](https://camo.githubusercontent.com/685d345e08116c15a5b8b1fc31327acf303c6c97/68747470733a2f2f613234382e652e616b616d61692e6e65742f7365637572652e6d65657475707374617469632e636f6d2f70686f746f732f6576656e742f622f612f342f382f3630305f3435363238373638382e6a706567)
