@@ -9,3 +9,5 @@ The sketch is based off the example code that comes with the library and modifie
 Once the sketch starts running, messages are sent to the Serial Monitor to let the user know what function is running at the moment.
 
 When the motors are tested in the `setup()` function, lift the chassis tires off the ground so it does not run in weird curves. For the `loop()` function, the chassis can be on a surface.
+
+(https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/a/4/8/600_456287688.jpeg)
